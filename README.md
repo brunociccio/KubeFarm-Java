@@ -1,4 +1,4 @@
-# KubeFarm-Java
+# KubeFarm
 
 A Kube Farm tem como objetivo fomentar o acesso de pessoas a uma dieta alimentar saudável, natural e livre de agrotóxicos, seja para escolas públicas, comunidades carentes, quilombolas, regiões afetadas pelo clima ou de extrema pobreza, através da agricultura inteligente (também denominada agricultura 5.0).
 
